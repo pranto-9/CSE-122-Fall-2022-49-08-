@@ -1,4 +1,4 @@
-// // Codeforces Problem No - 71A
+// Codeforces Problem No - 71A
 // Problem Name : Way Too Long Words
 
 #include<iostream>
